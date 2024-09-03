@@ -1,4 +1,0 @@
-Title: Principal FPGA Design
-Webindex: 69081099
-Company: Ceema Recruitment
-Description: seeking principal engineer fpga design leading defence company previous experience defence military aerospace experience fpga design implementation preferred vhdl simulation synthesis role principal fpga designer responsible odesign xilinx fpga device including power pc arm pro odesign fpga device odesign safety related fpga verification device competence tool design tool xilinx xilinx xilinx mentor designer spectrum precision synthesis
